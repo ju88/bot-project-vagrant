@@ -1,0 +1,4 @@
+bot-project-vagrant
+===================
+
+にせBotをvagrantでうごかすやつ
